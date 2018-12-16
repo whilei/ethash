@@ -30,8 +30,6 @@
   name = "github.com/Gustav-Simonsson/go-opencl"
 
 [[constraint]]
-  # TODO(tzdybal) - change after merging to master
-  branch = "fix/gh-orgs-go-build"
   name = "github.com/ethereumclassic/go-ethereum"
 
 [prune]
